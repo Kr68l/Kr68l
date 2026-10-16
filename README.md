@@ -33,7 +33,6 @@ GitLab, GitHub, VSCode, DBeaver, Versale, Supabase, MAMP
 Authentication, API integration, database operations,
 debugging, automated testing
 
----
 
 ## 🚀 Featured Projects
 
