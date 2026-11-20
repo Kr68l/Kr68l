@@ -37,7 +37,7 @@ debugging, automated testing
 ## 🚀 Featured Projects
 
 ### ☕ Stories Cafe
-🔗 [View Project](https://test-coffe-105o6pja6-kira13.vercel.app)
+🔗 [View Project](https://test-coffe-beta.vercel.app)
 
 A cafe website developed as a team project.
 
